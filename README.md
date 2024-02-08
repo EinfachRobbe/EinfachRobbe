@@ -1,18 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hey there! 👋</h1>
 
-<!--
-**EinfachRobbe/EinfachRobbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm EinfachRobbe, also known as SealCraft99, a passionate programmer from Germany. I love diving into Minecraft plugin development, crafting Discord bot systems in Java, tinkering with Python scripts, and programming cool Arduino projects in my free time.</p>
 
-Here are some ideas to get you started:
+#### 💻 What I Do:
+- Develop Minecraft plugins and systems.
+- Build Discord bot systems using Java (JDA).
+- Experiment with Python scripting for various purposes.
+- Program exciting Arduino projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌟 Fun Fact:
+**DE** | Bis ich 11 war, dachte ich, dass es "Einbahnfrei" heißt.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EinfachRobbe&show_icons=true&locale=en&layout=compact" alt="EinfachRobbe" /></p>
+#### 🎫 Contact me:
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://discord.com/users/860611726252703774"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height=30/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:hi@einfachrobbe.de"><img src="https://static-00.iconduck.com/assets.00/mail-icon-512x419-289bpxr2.png" height=30/></a>
+
+
+#### 🌐 Website:
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="">https://einfachrobbe.de</a>
