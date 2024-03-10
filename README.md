@@ -9,7 +9,7 @@
 - Program exciting Arduino projects.
 
 #### 🌟 Fun Fact:
-**DE** | Bis ich 11 war, dachte ich, dass es "Einbahnfrei" heißt.
+**DE** | Ich dachte lange, dass es "Einbahnfrei" heißt.
 
 #### 🎫 Contact me:
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://discord.com/users/860611726252703774"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height=30/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:hi@einfachrobbe.de"><img src="https://static-00.iconduck.com/assets.00/mail-icon-512x419-289bpxr2.png" height=30/></a>
