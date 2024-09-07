@@ -28,7 +28,7 @@
 <a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;
 <a href="https://filezilla-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/2048px-FileZilla_logo.svg.png" height=50/></a>&nbsp;
 <a href="https://www.arduino.cc/"><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height=50/></a>&nbsp;
-<a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" height=50/></a>&nbsp;
 
 #### 🌐 Website:
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="">https://einfachrobbe.de</a>
