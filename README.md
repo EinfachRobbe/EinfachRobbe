@@ -25,6 +25,10 @@
 <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" height=50/></a>&nbsp;
 <a href="https://www.putty.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png" height=50/></a>&nbsp;
 <a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;
+<a href="https://filezilla-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/2048px-FileZilla_logo.svg.png" height=50/></a>&nbsp;
+<a href="https://termius.com/"><img src="https://cdn.prod.website-files.com/5c7036349b5477bf13f828cf/6369e9891c741772f66eef8d_Brand%20Logo%20Icon.svg" height=50/></a>&nbsp;
+<a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;
+<a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;
 
 #### 🌐 Website:
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="">https://einfachrobbe.de</a>
