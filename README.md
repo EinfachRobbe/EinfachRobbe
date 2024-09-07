@@ -27,7 +27,7 @@
 <a href="https://termius.com/"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/termius_alt_macos_bigsur_icon_189653.png" height=60/></a>&nbsp;
 <a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;
 <a href="https://filezilla-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/2048px-FileZilla_logo.svg.png" height=50/></a>&nbsp;
-<a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;
+<a href="https://www.arduino.cc/"><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height=50/></a>&nbsp;
 <a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;
 
 #### 🌐 Website:
