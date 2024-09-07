@@ -19,7 +19,7 @@
 <a href="https://www.python.org/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height=50/></a>&nbsp;
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" height=50/></a>&nbsp;
 <a href="https://www.mysql.com/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height=50/></a>&nbsp;
-<a href="https://mariadb.org/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-mariadb-226022.png" height=50/></a>&nbsp;
+<a href="https://mariadb.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCfIcyyNrid-GZaxRGC6unO77lo-O6MdrEsQ&s" height=50/></a>&nbsp;
 
 
 #### 🌐 Website:
