@@ -23,7 +23,8 @@
 <a href="https://www.heidisql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" height=50/></a>&nbsp;
 <a href="https://dbeaver.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height=50/></a>&nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" height=50/></a>&nbsp;
-
+<a href="https://www.putty.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png" height=50/></a>&nbsp;
+<a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;
 
 #### 🌐 Website:
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="">https://einfachrobbe.de</a>
