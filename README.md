@@ -12,7 +12,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://discord.com/users/860611726252703774"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height=30/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:hi@einfachrobbe.de"><img src="https://static-00.iconduck.com/assets.00/mail-icon-512x419-289bpxr2.png" height=30/></a>
 
 ### 🔧 Languages & tools
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.java.com/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height=50/></a>&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.java.com/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height=50/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height=50/></a>
 
 #### 🌐 Website:
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="">https://einfachrobbe.de</a>
