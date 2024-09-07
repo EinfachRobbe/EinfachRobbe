@@ -21,7 +21,7 @@
 <a href="https://www.mysql.com/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height=50/></a>&nbsp;
 <a href="https://mariadb.org/"><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" height=50/></a>&nbsp;
 <a href="https://www.heidisql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" height=50/></a>&nbsp;
-
+<a href="https://dbeaver.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height=50/></a>&nbsp;
 
 
 #### 🌐 Website:
