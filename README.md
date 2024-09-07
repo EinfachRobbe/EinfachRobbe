@@ -12,7 +12,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://discord.com/users/860611726252703774"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height=30/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:hi@einfachrobbe.de"><img src="https://static-00.iconduck.com/assets.00/mail-icon-512x419-289bpxr2.png" height=30/></a>
 
 #### 🔧 Languages & tools:
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height=55/></a>
 <a href="https://jda.wiki/"><img src="https://jda.wiki/assets/images/logo-round.png" height=50/></a>&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height=50/></a>&nbsp;
@@ -25,7 +24,7 @@
 <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" height=50/></a>&nbsp;
 <a href="https://www.putty.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png" height=50/></a>&nbsp;
 <a href="https://termius.com/"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/termius_alt_macos_bigsur_icon_189653.png" height=60/></a>&nbsp;
-<a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://winscp.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height=50/></a>&nbsp;
 <a href="https://filezilla-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/2048px-FileZilla_logo.svg.png" height=45/></a>&nbsp;
 <a href="https://www.arduino.cc/"><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height=50/></a>&nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" height=50/></a>&nbsp;
