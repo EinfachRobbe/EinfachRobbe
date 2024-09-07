@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height=50/></a>
 <a href="https://jda.wiki/"><img src="https://jda.wiki/assets/images/logo-round.png" height=50/></a>&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height=50/></a>&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height=50/></a>&nbsp;
 <a href="https://www.python.org/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" height=50/></a>&nbsp;&nbsp;
 
 
