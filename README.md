@@ -7,7 +7,7 @@
 - Develop Minecraft plugins and systems.
 - Build Discord bot systems using Java (JDA).
 - Develop Web Apps using C#
-- Experiment with Python scripting for various purposes.
+- Experiment scripting for various purposes.
 - Program exciting Arduino projects.
 
 #### 🎫 Contact me:
