@@ -1,12 +1,12 @@
 <h1 align="center">Hey there! 👋</h1>
 
-<p align="center">I'm EinfachRobbe, also known as SealCraft99, a passionate programmer from Germany. I love diving into Minecraft plugin development, crafting Discord bot systems in Java, tinkering with Python scripts, and programming cool Arduino projects in my free time.</p>
+<p align="center">I'm EinfachRobbe, also known as SealCraft99, a passionate programmer from Germany. I love diving into Minecraft plugin development, crafting Discord bot systems in Java, developing software with C#, and programming cool Arduino projects in my free time.</p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://via.einfachrobbe.de/ko-fi)
 #### 💻 What I do:
-- Develop Minecraft plugins and systems.
+- Develop software using C#
+- Craft Minecraft plugins and systems.
 - Build Discord bot systems using Java (JDA).
-- Develop Web Apps using C#
 - Experiment scripting for various purposes.
 - Program exciting Arduino projects.
 
